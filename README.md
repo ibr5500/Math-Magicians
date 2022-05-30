@@ -1,2 +1,3 @@
-# Math-Magicians
-Math Magicians: Is a Calculator app that build by using React.
+# Math-Magicians: Setups
+
+> Math Magicians: Is a Calculator singale page app that build by using React.
