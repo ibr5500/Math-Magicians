@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: Events
+# Math magicians: refactor with hooks
 
 ## Description:
 
@@ -8,11 +8,7 @@
 
 ### In this project I have:
 
-> - Created logic folder.
-> - Created operate file.
-> - Created calculate file.
-> - Added events handle for the Calculator.
-> - installed big.js.
+> - Refactored the Calculator component to a function.
 > - Updated the README file.
 
 ## Built With
