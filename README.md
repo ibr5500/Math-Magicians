@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: setup
+# Math magicians: Events
 
 ## Description:
 
@@ -8,14 +8,16 @@
 
 ### In this project I have:
 
-> - Setup the linters ( Eslint, and Stylelint ) configurations for react. 
-> - Create React app.
+> - Created logic folder.
+> - Created operate file.
+> - Created calculate file.
+> - Added events handle for the Calculator.
+> - installed big.js.
+> - Updated the README file.
 
 ## Built With
 
-- Html
 - Css
-- JavaScript
 - React
 
 ## Live Demo (if available)
@@ -84,4 +86,5 @@ Feel free to check the [issues page](../../issues/).
 
 Please give a ⭐️ if you like this project!
 
+Don't forget about the⭐️stars.
 
