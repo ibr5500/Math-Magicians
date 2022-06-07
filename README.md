@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: refactor with hooks
+# Math magicians: full website.
 
 ## Description:
 
@@ -8,8 +8,12 @@
 
 ### In this project I have:
 
-> - Refactored the Calculator component to a function.
-> - Updated the README file.
+> - Created pages folder.
+> - Created Pages (Home and Quote).
+> - Created Navbar using "NavLink" imported from 'react-router dom'.
+> - Added a basic layout for the project. 
+> - Added mobile menu.
+> - Updated README file.
 
 ## Built With
 
