@@ -19,9 +19,6 @@
   display: none;
   z-index: 10;
   cursor: pointer;
-}
-
-i {
   font-size: 1.5rem;
   margin: 0.6rem 0 0 0;
 }
@@ -44,7 +41,7 @@ i {
   display: flex;
   list-style: none;
   gap: 3rem;
-  font-size: 1.4rem; 
+  font-size: 1.4rem;
 }
 
 .nav a {
@@ -72,7 +69,6 @@ i {
 .parent-container {
   display: flex;
   flex-direction: row;
-
 }
 
 .parent-container h2 {
@@ -129,7 +125,7 @@ button {
   font-size: 2rem;
 }
 
-@media screen and (max-width: 768px) {  
+@media screen and (max-width: 768px) {
   .nav {
     padding: 0.6rem 2.5rem;
   }
@@ -147,18 +143,16 @@ button {
     list-style: none;
     position: fixed;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     top: 0;
-    background: none;
     right: 0;
     bottom: 0;
     height: 100vh;
     width: 0;
     gap: 0.8rem;
     background: darkcyan;
-    flex-direction: column;
     overflow: hidden;
-    max-width: 290px;
+    max-width: 300px;
     z-index: 9;
   }
 
@@ -167,7 +161,7 @@ button {
   }
 
   .nav a {
-    color:#fff;
+    color: #fff;
   }
 
   .home h2 {
@@ -191,5 +185,4 @@ button {
     font-size: 1.25rem;
     line-height: 1.8rem;
   }
-
 }
