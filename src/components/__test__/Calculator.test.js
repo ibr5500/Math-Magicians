@@ -1,9 +1,11 @@
-import renderer from 'react-test-renderer';
+import '@testing-library/jest-dom';
+import { render, screen } from '@testing-library/react';
 import Calculator from '../Calculator';
 
 describe('Test for the Calculator component', () => {
-    it('Should render the Calculator', () => {
-      const tree = renderer.create(<Calculator />);
-      expect(tree).toMatchSnapshot();
-    });
+  test('renders Let\'s do some math!', () => {
+    render(<Calculator />);
+    const linkElement = screen.getByText(/Let's do some math!/i);
+    expect(linkElement).toBeInTheDocument();
+  });
 });

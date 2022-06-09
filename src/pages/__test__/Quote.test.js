@@ -1,9 +1,10 @@
-import renderer from 'react-test-renderer';
+import '@testing-library/jest-dom';
+import { render, screen } from '@testing-library/react';
 import Quote from '../Quote';
 
 describe('Test for the Quote page', () => {
-    it('Should render the Quote page', () => {
-      const tree = renderer.create(<Quote />);
-      expect(tree).toMatchSnapshot();
+    it('Renders William Paul Thurston', () => {
+      render(<Quote />);
+      expect(screen.getByText(/William Paul Thurston/)).toBeInTheDocument();
     });
 });
