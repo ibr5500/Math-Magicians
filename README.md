@@ -66,8 +66,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-> - #### Netlify: https://ibr5500calculator.netlify.app/
-> - #### Heroku: https://ibr55calculator.herokuapp.com/
+> - #### [Netlify](https://ibr5500calculator.netlify.app/)
+> - #### [Heroku](https://ibr55calculator.herokuapp.com/)
 
 ## Authors
 
