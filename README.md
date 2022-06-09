@@ -66,7 +66,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-- This app is deployed using Github pages (https://pages.github.com/)
+> - #### Netlify: https://ibr5500calculator.netlify.app/
+> - #### Heroku: https://ibr55calculator.herokuapp.com/
 
 ## Authors
 
