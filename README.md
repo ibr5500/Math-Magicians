@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: full website.
+# Math magicians: tests.
 
 ## Description:
 
@@ -78,7 +78,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+👤 **Ibrahim Ahmat**
+
+- GitHub: [@tkz96](https://github.com/tkz96)
+- Twitter: [@tkz96](https://twitter.com/tkz96)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/talha-zuberi)
 
 Feel free to check the [issues page](../../issues/).
 
