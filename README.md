@@ -22,7 +22,7 @@
 
 ## Live Demo (if available)
 
-Not available
+> - #### [Netlify](https://ibr5500calculator.netlify.app/)
 
 ## Getting Started
 
@@ -64,10 +64,6 @@ To get a local copy up and running follow these simple example steps.
 - Commit the changes with a descriptive message (i.e xyz features added)
 - Push the changes to changes to the repository (i.e git push)
 
-### Deployment
-
-> - #### [Netlify](https://ibr5500calculator.netlify.app/)
-> - #### [Heroku](https://ibr55calculator.herokuapp.com/)
 
 ## Authors
 
