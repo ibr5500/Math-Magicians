@@ -7,7 +7,7 @@
     "npm": "8.11.0"
   },
   "dependencies": {
-    "@testing-library/react": "^13.2.0",
+    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "big.js": "^6.1.1",
     "create-app-react": "^1.0.6",
